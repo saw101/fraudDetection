@@ -1,0 +1,274 @@
+2022-07-03/15:43:27		Start of Validation on files for prediction!!
+2022-07-03/15:43:28		Raw Data Validation Complete!!
+2022-07-03/15:43:28		Starting Data Transforamtion!!
+2022-07-03/15:43:28		DataTransformation Completed!!!
+2022-07-03/15:43:28		Creating Prediction_Database and tables on the basis of given schema!!!
+2022-07-03/15:43:38		Table creation Completed!!
+2022-07-03/15:43:38		Insertion of Data into Table started!!!!
+2022-07-03/15:44:49		Insertion in Table completed!!!
+2022-07-03/15:44:49		Deleting Good Data Folder!!!
+2022-07-03/15:44:49		Good_Data folder deleted!!!
+2022-07-03/15:44:49		Moving bad files to Archive and deleting Bad_Data folder!!!
+2022-07-03/15:44:49		Bad files moved to archive!! Bad folder Deleted!!
+2022-07-03/15:44:49		Validation Operation completed!!
+2022-07-03/15:44:49		Extracting csv file from table
+2022-07-03/15:44:49		Start of Prediction
+2022-07-03/15:44:49		Entered the get_data method of the Data_Getter class
+2022-07-03/15:44:49		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-07-03/15:44:49		Entered the remove_columns method of the Preprocessor class
+2022-07-03/15:44:49		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-07-03/15:44:49		Entered the is_null_present method of the Preprocessor class
+2022-07-03/15:44:49		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-07-03/15:44:49		Entered the impute_missing_values method of the Preprocessor class
+2022-07-03/15:44:49		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-07-03/15:44:49		Entered the encode_categorical_columns method of the Preprocessor class
+2022-07-03/15:44:49		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-07-03/15:44:49		Entered the scale_numerical_columns method of the Preprocessor class
+2022-07-03/15:44:49		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-07-03/15:44:49		Entered the load_model method of the File_Operation class
+2022-07-03/15:44:49		Exception occured in load_model method of the Model_Finder class. Exception message:  [Errno 2] No such file or directory: 'models/KMeans/KMeans.sav'
+2022-07-03/15:44:49		Model File KMeans could not be saved. Exited the load_model method of the Model_Finder class
+2022-07-03/15:44:49		Error occured while running the prediction!! Error:: 
+2022-07-03/15:51:31		Start of Validation on files for prediction!!
+2022-07-03/16:26:38		Start of Validation on files for prediction!!
+2022-07-03/16:26:39		Raw Data Validation Complete!!
+2022-07-03/16:26:39		Starting Data Transforamtion!!
+2022-07-03/16:26:39		DataTransformation Completed!!!
+2022-07-03/16:26:39		Creating Prediction_Database and tables on the basis of given schema!!!
+2022-07-03/16:26:44		Table creation Completed!!
+2022-07-03/16:26:44		Insertion of Data into Table started!!!!
+2022-07-03/16:27:35		Insertion in Table completed!!!
+2022-07-03/16:27:35		Deleting Good Data Folder!!!
+2022-07-03/16:27:45		Good_Data folder deleted!!!
+2022-07-03/16:27:45		Moving bad files to Archive and deleting Bad_Data folder!!!
+2022-07-03/16:27:45		Bad files moved to archive!! Bad folder Deleted!!
+2022-07-03/16:27:45		Validation Operation completed!!
+2022-07-03/16:27:45		Extracting csv file from table
+2022-07-03/16:27:45		Start of Prediction
+2022-07-03/16:27:45		Entered the get_data method of the Data_Getter class
+2022-07-03/16:27:45		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-07-03/16:27:45		Entered the remove_columns method of the Preprocessor class
+2022-07-03/16:27:45		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-07-03/16:27:45		Entered the is_null_present method of the Preprocessor class
+2022-07-03/16:27:45		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-07-03/16:27:45		Entered the impute_missing_values method of the Preprocessor class
+2022-07-03/16:27:45		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-07-03/16:27:45		Entered the encode_categorical_columns method of the Preprocessor class
+2022-07-03/16:27:45		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-07-03/16:27:45		Entered the scale_numerical_columns method of the Preprocessor class
+2022-07-03/16:27:45		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-07-03/16:27:45		Entered the load_model method of the File_Operation class
+2022-07-03/16:27:45		Exception occured in load_model method of the Model_Finder class. Exception message:  [Errno 2] No such file or directory: 'models/KMeans/KMeans.sav'
+2022-07-03/16:27:45		Model File KMeans could not be saved. Exited the load_model method of the Model_Finder class
+2022-07-03/16:27:45		Error occured while running the prediction!! Error:: 
+2022-07-09/14:14:58		Start of Validation on files for prediction!!
+2022-07-09/14:14:59		Raw Data Validation Complete!!
+2022-07-09/14:14:59		Starting Data Transforamtion!!
+2022-07-09/14:14:59		DataTransformation Completed!!!
+2022-07-09/14:14:59		Creating Prediction_Database and tables on the basis of given schema!!!
+2022-07-09/14:15:03		Table creation Completed!!
+2022-07-09/14:15:03		Insertion of Data into Table started!!!!
+2022-07-09/14:15:56		Insertion in Table completed!!!
+2022-07-09/14:15:56		Deleting Good Data Folder!!!
+2022-07-09/14:15:56		Good_Data folder deleted!!!
+2022-07-09/14:15:56		Moving bad files to Archive and deleting Bad_Data folder!!!
+2022-07-09/14:15:56		Bad files moved to archive!! Bad folder Deleted!!
+2022-07-09/14:15:56		Validation Operation completed!!
+2022-07-09/14:15:56		Extracting csv file from table
+2022-07-09/14:15:56		Start of Prediction
+2022-07-09/14:15:56		Entered the get_data method of the Data_Getter class
+2022-07-09/14:15:56		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-07-09/14:15:56		Entered the remove_columns method of the Preprocessor class
+2022-07-09/14:15:56		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-07-09/14:15:56		Entered the is_null_present method of the Preprocessor class
+2022-07-09/14:15:56		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-07-09/14:15:56		Entered the impute_missing_values method of the Preprocessor class
+2022-07-09/14:15:56		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-07-09/14:15:56		Entered the encode_categorical_columns method of the Preprocessor class
+2022-07-09/14:15:56		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-07-09/14:15:56		Entered the scale_numerical_columns method of the Preprocessor class
+2022-07-09/14:15:56		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-07-09/14:15:56		Entered the load_model method of the File_Operation class
+2022-07-09/14:15:56		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-07-09/14:15:56		Entered the find_correct_model_file method of the File_Operation class
+2022-07-09/14:15:56		Exited the find_correct_model_file method of the Model_Finder class.
+2022-07-09/14:15:56		Entered the load_model method of the File_Operation class
+2022-07-09/14:15:56		Model File XGBoost0 loaded. Exited the load_model method of the Model_Finder class
+2022-07-09/14:15:56		End of Prediction
+2022-07-09/16:25:57		Start of Validation on files for prediction!!
+2022-07-09/16:25:57		Raw Data Validation Complete!!
+2022-07-09/16:25:57		Starting Data Transforamtion!!
+2022-07-09/16:25:57		DataTransformation Completed!!!
+2022-07-09/16:25:57		Creating Prediction_Database and tables on the basis of given schema!!!
+2022-07-09/16:26:03		Table creation Completed!!
+2022-07-09/16:26:03		Insertion of Data into Table started!!!!
+2022-07-09/16:26:55		Insertion in Table completed!!!
+2022-07-09/16:26:55		Deleting Good Data Folder!!!
+2022-07-09/16:26:55		Good_Data folder deleted!!!
+2022-07-09/16:26:55		Moving bad files to Archive and deleting Bad_Data folder!!!
+2022-07-09/16:26:55		Bad files moved to archive!! Bad folder Deleted!!
+2022-07-09/16:26:55		Validation Operation completed!!
+2022-07-09/16:26:55		Extracting csv file from table
+2022-07-09/16:26:55		Start of Prediction
+2022-07-09/16:26:55		Entered the get_data method of the Data_Getter class
+2022-07-09/16:26:55		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-07-09/16:26:55		Entered the remove_columns method of the Preprocessor class
+2022-07-09/16:26:55		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-07-09/16:26:55		Entered the is_null_present method of the Preprocessor class
+2022-07-09/16:26:55		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-07-09/16:26:55		Entered the impute_missing_values method of the Preprocessor class
+2022-07-09/16:26:55		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-07-09/16:26:55		Entered the encode_categorical_columns method of the Preprocessor class
+2022-07-09/16:26:55		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-07-09/16:26:55		Entered the scale_numerical_columns method of the Preprocessor class
+2022-07-09/16:26:55		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-07-09/16:26:55		Entered the load_model method of the File_Operation class
+2022-07-09/16:26:55		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-07-09/16:26:55		Entered the find_correct_model_file method of the File_Operation class
+2022-07-09/16:26:55		Exited the find_correct_model_file method of the Model_Finder class.
+2022-07-09/16:26:55		Entered the load_model method of the File_Operation class
+2022-07-09/16:26:55		Model File XGBoost0 loaded. Exited the load_model method of the Model_Finder class
+2022-07-09/16:26:55		End of Prediction
+2022-07-09/16:28:42		Start of Validation on files for prediction!!
+2022-07-09/16:29:42		Start of Validation on files for prediction!!
+2022-07-09/16:30:18		Start of Validation on files for prediction!!
+2022-07-09/16:30:34		Start of Validation on files for prediction!!
+2022-07-09/16:30:35		Start of Validation on files for prediction!!
+2022-07-09/16:31:36		Start of Validation on files for prediction!!
+2022-07-09/16:35:02		Start of Validation on files for prediction!!
+2022-07-09/16:37:13		Start of Validation on files for prediction!!
+2022-07-09/16:40:14		Start of Validation on files for prediction!!
+2022-07-09/16:40:54		Start of Validation on files for prediction!!
+2022-07-09/16:41:29		Start of Validation on files for prediction!!
+2022-07-09/16:41:43		Start of Validation on files for prediction!!
+2022-07-09/16:50:57		Start of Validation on files for prediction!!
+2022-07-09/16:55:41		Start of Validation on files for prediction!!
+2022-07-09/16:57:04		Start of Validation on files for prediction!!
+2022-07-09/16:59:37		Start of Validation on files for prediction!!
+2022-07-09/16:59:43		Raw Data Validation Complete!!
+2022-07-09/16:59:43		Starting Data Transforamtion!!
+2022-07-09/16:59:43		DataTransformation Completed!!!
+2022-07-09/16:59:43		Creating Prediction_Database and tables on the basis of given schema!!!
+2022-07-09/16:59:48		Table creation Completed!!
+2022-07-09/16:59:48		Insertion of Data into Table started!!!!
+2022-07-09/17:00:42		Insertion in Table completed!!!
+2022-07-09/17:00:42		Deleting Good Data Folder!!!
+2022-07-09/17:00:42		Good_Data folder deleted!!!
+2022-07-09/17:00:42		Moving bad files to Archive and deleting Bad_Data folder!!!
+2022-07-09/17:00:42		Bad files moved to archive!! Bad folder Deleted!!
+2022-07-09/17:00:42		Validation Operation completed!!
+2022-07-09/17:00:42		Extracting csv file from table
+2022-07-09/17:00:42		Start of Prediction
+2022-07-09/17:00:42		Entered the get_data method of the Data_Getter class
+2022-07-09/17:00:42		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-07-09/17:00:42		Entered the remove_columns method of the Preprocessor class
+2022-07-09/17:00:42		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-07-09/17:00:42		Entered the is_null_present method of the Preprocessor class
+2022-07-09/17:00:42		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-07-09/17:00:42		Entered the impute_missing_values method of the Preprocessor class
+2022-07-09/17:00:42		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-07-09/17:00:42		Entered the encode_categorical_columns method of the Preprocessor class
+2022-07-09/17:00:42		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-07-09/17:00:42		Entered the scale_numerical_columns method of the Preprocessor class
+2022-07-09/17:00:42		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-07-09/17:00:42		Entered the load_model method of the File_Operation class
+2022-07-09/17:00:42		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-07-09/17:00:42		Entered the find_correct_model_file method of the File_Operation class
+2022-07-09/17:00:42		Exited the find_correct_model_file method of the Model_Finder class.
+2022-07-09/17:00:42		Entered the load_model method of the File_Operation class
+2022-07-09/17:00:42		Model File XGBoost0 loaded. Exited the load_model method of the Model_Finder class
+2022-07-09/17:00:42		End of Prediction
+2022-07-09/17:04:32		Start of Validation on files for prediction!!
+2022-07-09/17:04:47		Start of Validation on files for prediction!!
+2022-07-09/17:04:47		Raw Data Validation Complete!!
+2022-07-09/17:04:47		Starting Data Transforamtion!!
+2022-07-09/17:04:47		DataTransformation Completed!!!
+2022-07-09/17:04:47		Creating Prediction_Database and tables on the basis of given schema!!!
+2022-07-09/17:04:51		Table creation Completed!!
+2022-07-09/17:04:51		Insertion of Data into Table started!!!!
+2022-07-09/17:04:51		Insertion in Table completed!!!
+2022-07-09/17:04:51		Deleting Good Data Folder!!!
+2022-07-09/17:04:51		Good_Data folder deleted!!!
+2022-07-09/17:04:51		Moving bad files to Archive and deleting Bad_Data folder!!!
+2022-07-09/17:04:52		Bad files moved to archive!! Bad folder Deleted!!
+2022-07-09/17:04:52		Validation Operation completed!!
+2022-07-09/17:04:52		Extracting csv file from table
+2022-07-09/17:04:52		Start of Prediction
+2022-07-09/17:04:52		Entered the get_data method of the Data_Getter class
+2022-07-09/17:04:52		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-07-09/17:04:52		Entered the remove_columns method of the Preprocessor class
+2022-07-09/17:04:52		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-07-09/17:04:52		Entered the is_null_present method of the Preprocessor class
+2022-07-09/17:04:52		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-07-09/17:04:52		Entered the encode_categorical_columns method of the Preprocessor class
+2022-07-09/17:04:52		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-07-09/17:04:52		Entered the scale_numerical_columns method of the Preprocessor class
+2022-07-09/17:04:52		Error occured while running the prediction!! Error:: "None of [Index(['months_as_customer', 'policy_deductable', 'umbrella_limit',\n       'capital-gains', 'capital-loss', 'incident_hour_of_the_day',\n       'number_of_vehicles_involved', 'bodily_injuries', 'witnesses',\n       'injury_claim', 'property_claim', 'vehicle_claim'],\n      dtype='object')] are in the [columns]"
+2022-07-09/17:07:04		Start of Validation on files for prediction!!
+2022-07-09/17:07:20		Start of Validation on files for prediction!!
+2022-07-09/17:08:08		Start of Validation on files for prediction!!
+2022-07-09/17:12:16		Start of Validation on files for prediction!!
+2022-07-09/17:12:17		Raw Data Validation Complete!!
+2022-07-09/17:12:17		Starting Data Transforamtion!!
+2022-07-09/17:12:17		DataTransformation Completed!!!
+2022-07-09/17:12:17		Creating Prediction_Database and tables on the basis of given schema!!!
+2022-07-09/17:12:23		Table creation Completed!!
+2022-07-09/17:12:23		Insertion of Data into Table started!!!!
+2022-07-09/17:12:23		Insertion in Table completed!!!
+2022-07-09/17:12:23		Deleting Good Data Folder!!!
+2022-07-09/17:12:23		Good_Data folder deleted!!!
+2022-07-09/17:12:23		Moving bad files to Archive and deleting Bad_Data folder!!!
+2022-07-09/17:12:23		Bad files moved to archive!! Bad folder Deleted!!
+2022-07-09/17:12:23		Validation Operation completed!!
+2022-07-09/17:12:23		Extracting csv file from table
+2022-07-09/17:12:23		Start of Prediction
+2022-07-09/17:12:23		Entered the get_data method of the Data_Getter class
+2022-07-09/17:12:23		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-07-09/17:12:23		Entered the remove_columns method of the Preprocessor class
+2022-07-09/17:12:23		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-07-09/17:12:23		Entered the is_null_present method of the Preprocessor class
+2022-07-09/17:12:23		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-07-09/17:12:23		Entered the encode_categorical_columns method of the Preprocessor class
+2022-07-09/17:12:24		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-07-09/17:12:24		Entered the scale_numerical_columns method of the Preprocessor class
+2022-07-09/17:12:24		Error occured while running the prediction!! Error:: "None of [Index(['months_as_customer', 'policy_deductable', 'umbrella_limit',\n       'capital-gains', 'capital-loss', 'incident_hour_of_the_day',\n       'number_of_vehicles_involved', 'bodily_injuries', 'witnesses',\n       'injury_claim', 'property_claim', 'vehicle_claim'],\n      dtype='object')] are in the [columns]"
+2022-07-09/17:20:49		Start of Validation on files for prediction!!
+2022-07-09/17:21:04		Start of Validation on files for prediction!!
+2022-07-09/17:21:55		Start of Validation on files for prediction!!
+2022-07-09/17:22:23		Start of Validation on files for prediction!!
+2022-07-09/17:23:23		Start of Validation on files for prediction!!
+2022-07-09/17:25:14		Start of Validation on files for prediction!!
+2022-07-10/17:44:38		Start of Validation on files for prediction!!
+2022-07-10/17:44:39		Raw Data Validation Complete!!
+2022-07-10/17:44:39		Starting Data Transforamtion!!
+2022-07-10/17:44:39		DataTransformation Completed!!!
+2022-07-10/17:44:39		Creating Prediction_Database and tables on the basis of given schema!!!
+2022-07-10/17:44:44		Table creation Completed!!
+2022-07-10/17:44:44		Insertion of Data into Table started!!!!
+2022-07-10/17:45:38		Insertion in Table completed!!!
+2022-07-10/17:45:38		Deleting Good Data Folder!!!
+2022-07-10/17:45:38		Good_Data folder deleted!!!
+2022-07-10/17:45:38		Moving bad files to Archive and deleting Bad_Data folder!!!
+2022-07-10/17:45:38		Bad files moved to archive!! Bad folder Deleted!!
+2022-07-10/17:45:38		Validation Operation completed!!
+2022-07-10/17:45:38		Extracting csv file from table
+2022-07-10/17:45:39		Start of Prediction
+2022-07-10/17:45:39		Entered the get_data method of the Data_Getter class
+2022-07-10/17:45:39		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-07-10/17:45:39		Entered the remove_columns method of the Preprocessor class
+2022-07-10/17:45:39		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-07-10/17:45:39		Entered the is_null_present method of the Preprocessor class
+2022-07-10/17:45:39		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-07-10/17:45:39		Entered the impute_missing_values method of the Preprocessor class
+2022-07-10/17:45:39		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-07-10/17:45:39		Entered the encode_categorical_columns method of the Preprocessor class
+2022-07-10/17:45:39		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-07-10/17:45:39		Entered the scale_numerical_columns method of the Preprocessor class
+2022-07-10/17:45:39		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-07-10/17:45:39		Entered the load_model method of the File_Operation class
+2022-07-10/17:45:39		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-07-10/17:45:39		Entered the find_correct_model_file method of the File_Operation class
+2022-07-10/17:45:39		Exited the find_correct_model_file method of the Model_Finder class.
+2022-07-10/17:45:39		Entered the load_model method of the File_Operation class
+2022-07-10/17:45:39		Model File XGBoost0 loaded. Exited the load_model method of the Model_Finder class
+2022-07-10/17:45:39		End of Prediction

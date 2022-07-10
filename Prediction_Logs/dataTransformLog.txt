@@ -1,0 +1,8 @@
+2022-07-03/15:43:28		 fraudDetection_021119920_010222.csv: File Transformed successfully!!
+2022-07-03/16:26:39		 fraudDetection_021119920_010222.csv: File Transformed successfully!!
+2022-07-09/14:14:59		 fraudDetection_021119920_010222.csv: File Transformed successfully!!
+2022-07-09/16:25:57		 fraudDetection_021119920_010222.csv: File Transformed successfully!!
+2022-07-09/16:59:43		 fraudDetection_021119920_010222.csv: File Transformed successfully!!
+2022-07-09/17:31:21		 fraudDetection_020220703_133108.csv: File Transformed successfully!!
+2022-07-09/17:31:21		 fraudDetection_021119920_010222.csv: File Transformed successfully!!
+2022-07-10/17:44:39		 fraudDetection_021119920_010222.csv: File Transformed successfully!!

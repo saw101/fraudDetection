@@ -1,0 +1,20 @@
+2022-07-03/15:43:27		Column Length Validation Started!!
+2022-07-03/15:43:28		Column Length Validation Completed!!
+2022-07-03/16:26:39		Column Length Validation Started!!
+2022-07-03/16:26:39		Column Length Validation Completed!!
+2022-07-09/14:14:58		Column Length Validation Started!!
+2022-07-09/14:14:58		Column Length Validation Completed!!
+2022-07-09/16:25:57		Column Length Validation Started!!
+2022-07-09/16:25:57		Column Length Validation Completed!!
+2022-07-09/16:59:43		Column Length Validation Started!!
+2022-07-09/16:59:43		Column Length Validation Completed!!
+2022-07-09/17:04:47		Column Length Validation Started!!
+2022-07-09/17:04:47		Invalid Column Length for the file!! File moved to Bad Raw Folder :: fraudDetection_020220703_133108.csv
+2022-07-09/17:04:47		Column Length Validation Completed!!
+2022-07-09/17:12:16		Column Length Validation Started!!
+2022-07-09/17:12:17		Invalid Column Length for the file!! File moved to Bad Raw Folder :: fraudDetection_020220703_133108.csv
+2022-07-09/17:12:17		Column Length Validation Completed!!
+2022-07-09/17:31:15		Column Length Validation Started!!
+2022-07-09/17:31:17		Column Length Validation Completed!!
+2022-07-10/17:44:38		Column Length Validation Started!!
+2022-07-10/17:44:38		Column Length Validation Completed!!

@@ -1,0 +1,12 @@
+2022-07-03/15:43:27		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2022-07-03/16:26:39		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2022-07-09/14:14:58		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2022-07-09/16:25:57		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2022-07-09/16:50:57		Error occured while validating FileName [Errno 2] No such file or directory: 'Prediction_Batch_files/insuranceFraud.csv'
+2022-07-09/16:59:43		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2022-07-09/17:04:47		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_020220703_133108.csv
+2022-07-09/17:04:47		Invalid File Name!! File moved to Bad Raw Folder :: fraudDetection_021119920_01022.csv
+2022-07-09/17:12:16		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_020220703_133108.csv
+2022-07-09/17:31:15		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_020220703_133108.csv
+2022-07-09/17:31:15		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2022-07-10/17:44:38		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
