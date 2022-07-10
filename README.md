@@ -6,7 +6,7 @@ To build a classification methodology to determine whether a customer is placing
 
 ### Architecture
 
-![My Image](appFlow.jpg)
+![My Image](./appFlow.png)
 
 The Csv file(s) from the data batches path is read, the validation,transformation steps are performed and the cleaned data is exported from a sqlite database to a csv file, and this csv file serves as the training data for the ML models.
 
