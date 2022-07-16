@@ -18,7 +18,7 @@ After the clusters have been created, we find the best model for each cluster by
 
 A frontend application is developed using the flask framework and deployed to Heroku cloud platform.
 
-App URL: // PLACEHOLDER update later
+App URL: https://app-frauddetection.herokuapp.com/
 
 ### Find me here
 
